@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/bellanbravo/static/css/main.b1f489c9.css",
+    "main.js": "/bellanbravo/static/js/main.83c10efd.js",
+    "static/media/mar14.png": "/bellanbravo/static/media/mar14.efc6cb4da1766d0692f0.png",
+    "static/media/instruments.jpg": "/bellanbravo/static/media/instruments.a1481224246b608ad567.jpg",
+    "static/media/feb29.png": "/bellanbravo/static/media/feb29.d621e0816b685dcacdac.png",
+    "static/media/feb8.png": "/bellanbravo/static/media/feb8.adca4508cd24c5153dbb.png",
+    "static/media/newselfie.jpg": "/bellanbravo/static/media/newselfie.78b149d52ddcecc87deb.jpg",
+    "static/media/photo.jpg": "/bellanbravo/static/media/photo.76c06b8b91f4f5c09734.jpg",
+    "static/media/beach.jpg": "/bellanbravo/static/media/beach.3dd91f662c9c5506550c.jpg",
+    "static/media/lanterns.jpg": "/bellanbravo/static/media/lanterns.7973f9dc4d79cc15e014.jpg",
+    "static/media/mar7.png": "/bellanbravo/static/media/mar7.9f4563dbaa089e0bd4f2.png",
+    "static/media/jan11.png": "/bellanbravo/static/media/jan11.1e520de42af66fe2487a.png",
+    "static/media/feb22.png": "/bellanbravo/static/media/feb22.38be145d8bef1c553e26.png",
+    "static/media/feb1.png": "/bellanbravo/static/media/feb1.87873b7fafc490520fa7.png",
+    "static/media/jan18.png": "/bellanbravo/static/media/jan18.cf97abc8da2557a20bf7.png",
+    "static/media/jan25.png": "/bellanbravo/static/media/jan25.44ba1e57442465445871.png",
+    "static/media/musicresume.pdf": "/bellanbravo/static/media/musicresume.df56a7e684639142b583.pdf",
+    "index.html": "/bellanbravo/index.html",
+    "main.b1f489c9.css.map": "/bellanbravo/static/css/main.b1f489c9.css.map",
+    "main.83c10efd.js.map": "/bellanbravo/static/js/main.83c10efd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1f489c9.css",
+    "static/js/main.83c10efd.js"
+  ]
+}
