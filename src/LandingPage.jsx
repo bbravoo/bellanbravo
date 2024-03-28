@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './LandingPage.css';
 import beach from './pictures/beach.jpg'
+
 export default class LandingPage extends Component{
   render(){
     return(

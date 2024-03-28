@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './Contact.css';
+
 import lanterns from'./pictures/lanterns.jpg';
 
 export default class Contact extends Component{
