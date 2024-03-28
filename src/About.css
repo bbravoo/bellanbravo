@@ -1,0 +1,17 @@
+body{
+  background-color: #F9F9F8;
+}
+.body-container{
+  display: flex;
+  align-items: center;
+  height: 85vh;
+}
+.photo{
+  width:40vw;
+  height:80vh;
+}
+p{
+padding: 75px;
+align-items: center;
+color: #435167;
+}

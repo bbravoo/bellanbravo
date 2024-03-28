@@ -1,0 +1,33 @@
+body{
+    box-sizing: border-box;
+}
+.navbar{
+    padding: 20px;
+    background-color: #F9F9F8;
+}
+.items{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.home{
+    text-decoration: none;
+    font-size: 24px;
+    padding-left: 2rem;
+    color: #6B8FC6;
+}
+.me-auto{
+    text-decoration: none;
+    padding-right: 12px;
+    font-size: 20px;
+    justify-content:flex-end;
+    color: #6B8FC6;
+
+}
+.links{
+    display:flex;
+    color: black;
+}
+.links:visited{
+    color: black;
+}

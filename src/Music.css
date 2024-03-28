@@ -1,0 +1,19 @@
+.body-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.p-text{
+    transform: translateX(-10vw); 
+}
+.picture{
+    padding: 5vw;
+}
+.title{
+    transform: translateY(10vh);
+    transform: translateX(-10vw);
+}
+.music-resume{
+    color:#435167;
+    transform: translateX(-8%);
+}
